@@ -27,7 +27,7 @@ a {
     color: inherit;
 }
 
-.header__logo{
+.logo{
     max-width: 8rem;
 }   
 
@@ -39,7 +39,7 @@ a {
     max-width: var(--max_width_xl);
 }
 
-.header_menu {
+.header__menu {
 
     & ul {
         list-style: none;
@@ -107,7 +107,7 @@ a {
     gap: 1rem;
 }
 
-.content {
+.second_section__content {
     width: 400px;
     & p {
         font-family: var(--font-text);
